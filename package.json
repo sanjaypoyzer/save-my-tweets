@@ -1,0 +1,29 @@
+{
+  "name": "save-my-tweets",
+  "version": "1.0.0",
+  "description": "Node module which streams tweets straight into a JSON file.",
+  "main": "index.js",
+  "dependencies": {
+      "node-tweet-stream": "1.6"
+    },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sanjaypoyzer/save-my-tweets.git"
+  },
+  "keywords": [
+    "tweet",
+    "twitter",
+    "streaming",
+    "backup",
+    "json"
+  ],
+  "author": "Sanjay Poyzer (sp@sanjaypoyzer.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaypoyzer/save-my-tweets/issues"
+  },
+  "homepage": "https://github.com/sanjaypoyzer/save-my-tweets"
+}
